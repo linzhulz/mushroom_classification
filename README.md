@@ -11,7 +11,7 @@ The dataset is sponsored by UCI and availabe on Kaggle: https://www.kaggle.com/u
 
 **Files**
 
-1. Proposal: Proposal-Mushroom Classification .pdf
+1. Proposal: proposal.pdf
 
 2. final report: Capstone Report-Mushroom Classification.pdf
 
