@@ -38,10 +38,10 @@ pandas
 
 matplotlib
 
-seaborn
+seaborn (0.7.0)
 
-xgboost
+xgboost (0.6)
 
-sklearn
+sklearn (0.17)
 
-tensorflow
+tensorflow(0.12.1)
